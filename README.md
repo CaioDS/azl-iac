@@ -1,2 +1,7 @@
 # azl-iac
-Infrastructure as code repo
+
+## Objective: IAC Repo destinaded for creation Azure Infrastructure with Terraform
+
+## Stack:
+- Terraform
+- Azurerm
